@@ -16,41 +16,29 @@ Oh, and I also like to write press-releases in what I call "Oprah-speak" for mai
 Once the project moves into development, the press release can be used as a touchstone; a guiding light. The product team can ask themselves, "Are we building what is in the press release?" If they find they're spending time building things that aren't in the press release (overbuilding), they need to ask themselves why. This keeps product development focused on achieving the customer benefits and not building extraneous stuff that takes longer to build, takes resources to maintain, and doesn't provide real customer benefit (at least not enough to warrant inclusion in the press release).
  -->
  
-## Heading ##
-  > Name the product in a way the reader (i.e. your target customers) will understand.
-
-## Sub-Heading ##
-  > Describe who the market for the product is and what benefit they get. One sentence only underneath the title.
+## Car Crazy ##
+  > Car Crazy is the newest social media ment specificly for the car enthusiests.
 
 ## Summary ##
-  > Give a summary of the product and the benefit. Assume the reader will not read anything else so make this paragraph good.
+  > Car enthusiests like talking cars and meeting people who also like cars.
 
 ## Problem ##
-  > Describe the problem your product solves.
+  > Car enthusiests don't really have a platform of their own. There are forums here and there but no dedicated social platform.
 
 ## Solution ##
-  > Describe how your product elegantly solves the problem.
+  > By bringing more like minded people together in one place its a way for you to meet people in your area that
 
 ## Quote from You ##
-  > A quote from a spokesperson in your company.
+  > I've meet many new friends through Car Crazy.
 
 ## How to Get Started ##
-  > Describe how easy it is to get started.
+  > Make an account and meet like minded indivituals.
 
 ## Customer Quote ##
-  > Provide a quote from a hypothetical customer that describes how they experienced the benefit.
+  > This is awesome. I've been invited to many local events by people I've meet through Car Crazy.
 
 ## Closing and Call to Action ##
-  > Wrap it up and give pointers where the reader should go next.
+  > More comming soon
 
-<!--
-Car Crazy
-Car Crazy is the newest social media ment specificly for the car enthusiests
-
-With Car Crazy you can get ideas for car modifactions find local events or just check out some cool cars.
-
-Car enthusiests don't really have a platform of their own.
-
-By bringing more like minded people together in one place its a way for you to meet people in your area that -->
 
  
